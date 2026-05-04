@@ -31,6 +31,12 @@ The process involves:
 - MyHeritage: CSV format with RESULT field
 
 ---
+## Related conversions
+
+- [23andMe → AncestryDNA](23andme-to-ancestrydna.md)
+- [AncestryDNA → 23andMe](ancestrydna-to-23andme.md)
+- [MyHeritage → 23andMe](myheritage-to-23andme.md)
+- [23andMe → MyHeritage](23andme-to-myheritage.md)
 
 ## Important notes
 
