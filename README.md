@@ -40,6 +40,3 @@ It does NOT provide medical diagnosis or health advice.
 
 License
 MIT
-It does NOT provide medical diagnosis or health advice.
-
-License
