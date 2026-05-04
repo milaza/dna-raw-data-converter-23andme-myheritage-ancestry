@@ -2,7 +2,7 @@
 
 If you just want to convert DNA files without using PHP or command line:
 
-👉 https://tendna.com/
+👉 [https://tendna.com/](https://tendna.com/en/dna-converter)
 
 Upload your file and get instant conversion between:
 - 23andMe
