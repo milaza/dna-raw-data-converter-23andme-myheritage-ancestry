@@ -48,5 +48,5 @@ The process involves:
 
 For automatic conversion without programming:
 
-👉 https://tendna.com/
+👉 https://tendna.com/en/dna-converter
 
