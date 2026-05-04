@@ -41,5 +41,11 @@ The process involves:
 ## Important notes
 
 - No medical interpretation is performed
+
+## Try online conversion
+
+For automatic conversion without programming:
+
+👉 https://tendna.com/
 - Only format conversion is applied
 - Data structure may vary slightly between providers
