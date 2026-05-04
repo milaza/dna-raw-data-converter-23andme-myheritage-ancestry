@@ -5,3 +5,9 @@
 ## Key transformation:
 - genotype → RESULT
 - TSV → CSV
+
+## Related pages
+
+- See supported formats: [DNA File Converter Tool](dna-file-converter-tool.md)
+- Learn differences: [DNA Format Differences](dna-file-formats-differences.md)
+- Full guide: [Conversion Guide](conversion-guide.md)
