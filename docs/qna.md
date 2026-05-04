@@ -24,6 +24,15 @@ Each company uses its own internal schema for storing genotype data.
 
 Yes, the tool is designed for genealogy and DNA data compatibility research.
 
+## Convert MyHeritage to 23andMe
+
+It is possible to convert MyHeritage raw DNA files into 23andMe format by mapping genotype fields and adjusting file structure from CSV to TSV.
+
+## Convert AncestryDNA to 23andMe format
+
+AncestryDNA raw data files can be converted to 23andMe format by merging allele columns into a single genotype value and reformatting the file from CSV to TSV structure.
+
+
 ---
 
 ## Does conversion affect accuracy?
