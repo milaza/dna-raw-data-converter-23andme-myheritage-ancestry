@@ -1,3 +1,15 @@
+## 🌐 Online DNA Converter (No coding required)
+
+If you just want to convert DNA files without using PHP or command line:
+
+👉 https://tendna.com/
+
+Upload your file and get instant conversion between:
+- 23andMe
+- AncestryDNA
+- MyHeritage
+- FamilyTreeDNA
+- 
 # DNA File Converter (23andMe → AncestryDNA / MyHeritage / FamilyTreeDNA)
 
 This project is a PHP tool for converting raw DNA data files between different genetic testing formats.
