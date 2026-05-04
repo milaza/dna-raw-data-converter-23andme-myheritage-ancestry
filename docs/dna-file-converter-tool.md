@@ -11,9 +11,15 @@ A tool for converting raw DNA data files between major genealogy platforms.
 ## Purpose:
 Enable compatibility between different DNA services.
 
-## See also
+## Documentation
 
-- [23andMe format](23andme-format.md)
-- [AncestryDNA format](ancestrydna-format.md)
-- [MyHeritage format](myheritage-format.md)
-- [Conversion guide](conversion-guide.md)
+- [Conversion Guide](conversion-guide.md)
+- [Format Comparison](format-comparison.md)
+- [DNA Formats Differences](dna-file-formats-differences.md)
+
+## Supported formats
+
+- [23andMe](23andme-format.md)
+- [AncestryDNA](ancestrydna-format.md)
+- [MyHeritage](myheritage-format.md)
+- [FamilyTreeDNA](familytreedna-format.md)
