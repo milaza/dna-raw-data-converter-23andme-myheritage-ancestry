@@ -37,3 +37,7 @@ It supports major formats like:
 - 23andMe
 - AncestryDNA
 - MyHeritage
+
+## See also:
+- [Conversion Guide](conversion-guide.md)
+- [DNA File Formats](dna-file-formats-differences.md)
