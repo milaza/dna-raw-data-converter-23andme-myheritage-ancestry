@@ -2,7 +2,7 @@
 
 You can also use the web version (no installation required):
 
-👉 https://tendna.com/
+👉 https://tendna.com/en/dna-converter
 
 # Frequently Asked Questions
 
