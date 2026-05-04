@@ -1,0 +1,23 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Cache / temp
+/cache/
+/tmp/
+/storage/
+
+# PHPUnit
+.phpunit.result.cache
+
+# IDE / editors
+/.idea/
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
