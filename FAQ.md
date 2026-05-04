@@ -1,3 +1,9 @@
+## Need a simple online tool?
+
+You can also use the web version (no installation required):
+
+👉 https://tendna.com/
+
 # Frequently Asked Questions
 
 ---
