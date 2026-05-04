@@ -9,3 +9,9 @@
 
 ## Result
 A compatible AncestryDNA-style raw data file suitable for genealogy tools.
+
+## Related pages
+
+- See supported formats: [DNA File Converter Tool](dna-file-converter-tool.md)
+- Learn differences: [DNA Format Differences](dna-file-formats-differences.md)
+- Full guide: [Conversion Guide](conversion-guide.md)
