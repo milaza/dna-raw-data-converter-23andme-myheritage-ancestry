@@ -45,6 +45,14 @@ samзle_AncestryDNA.txt
 sample_MyHeritage.csv
 sample_FamilyTreeDNA.csv
 
+## Guides
+
+- Convert DNA formats
+- Upload raw DNA data
+- Understand file structures
+
+See /guides for full documentation.
+
 Important note
 
 This tool works only with raw DNA data files.
