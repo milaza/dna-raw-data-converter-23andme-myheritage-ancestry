@@ -32,7 +32,7 @@ Run the converter from command line:
 
 ```bash
 php converter/convert.php input.txt output.txt target_format
-
+```
 Example:
 
 php converter/DNA-converter.php examples/sample_23andme.txt output.txt ancestrydna
