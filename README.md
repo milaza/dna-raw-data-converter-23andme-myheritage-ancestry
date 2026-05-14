@@ -58,7 +58,7 @@ Important note
 This tool works only with raw DNA data files.
 It does NOT provide medical diagnosis or health advice.
 
-![GitHub release]([https://img.shields.io/github/v/release/USERNAME/REPO](https://img.shields.io/github/v/release/milaza/dna-raw-data-converter-23andme-myheritage-ancestry))
+![GitHub release](https://img.shields.io/github/v/release/milaza/dna-raw-data-converter-23andme-myheritage-ancestry)
 
 License
 MIT
